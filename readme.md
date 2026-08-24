@@ -6,3 +6,8 @@ Exercises are based on the [freeCodeCamp.org](https://freecodecamp.org) curricul
 
 
 
+
+
+
+
+[*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)  
