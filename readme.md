@@ -25,6 +25,7 @@ The HTML boilerplate has been provided for you.
 
 Start by adding a heading to your page that reads `List of Major Web Browsers` using a `h1` element inside the body element.  
 
+
 ### Step 2  
 As you recall from an earlier lesson, description lists are used to present terms and definitions in an organized and easy-to-read format.  
 Here is an example:  
@@ -40,6 +41,21 @@ Here is an example:
 ```  
 
 Below the `h1` element, create a `dl` element. This will hold the list of browsers.  
+
+
+### Step 3  
+Description lists are made up of a list of terms and details. The `dt` element represents the description term, while the `dd` element represents the description detail.  
+The first browser you will add to your description list will be for Google Chrome.  
+
+Inside your `dl` element, add a `dt` element containing the text `Google Chrome`.  
+
+Below your `dt` element, add a `dd` element with the following text:  
+
+**Example Code**  
+```html
+**This is a free web browser developed by Google and first released in 2008.**
+```  
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-list-of-web-browsers/](https://student0martian.github.io/fcc-list-of-web-browsers/)  
