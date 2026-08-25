@@ -67,6 +67,7 @@ Below your `dt` element, add a `dd` element with the following text:
 This is a free web browser developed by the Mozilla Corporation and first created in 2004.
 ```  
 
+
 ### Step 5  
 The third browser you will add to the list will be for the Safari web browser.  
 Add another `dt` element containing the text `Safari`.  
@@ -75,6 +76,17 @@ Below your `dt` element, add a `dd` element with the following text:
 **Example Code**  
 ```html
 This browser was developed by Apple and is the default browser for iPhone, iPad and Mac devices.
+```  
+
+
+### Step 6  
+Now it is time to add your fourth browser to the list.  
+Add another `dt` element containing the text `Brave`.  
+Below your `dt` element, add a `dd` element with the following text:  
+
+**Example Code**  
+```html
+This is a free web browser first released in 2016 that is based on the Chromium web browser.
 ```  
 
 
