@@ -53,7 +53,7 @@ Below your `dt` element, add a `dd` element with the following text:
 
 **Example Code**  
 ```html
-**This is a free web browser developed by Google and first released in 2008.**
+This is a free web browser developed by Google and first released in 2008.
 ```  
 
 
