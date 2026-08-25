@@ -90,6 +90,18 @@ This is a free web browser first released in 2016 that is based on the Chromium 
 ```  
 
 
+### Step 7  
+The last browser you will add to the list will be for the Arc browser.  
+Add another `dt` element containing the text `Arc`.  
+Below your `dt` element, add a `dd` element with the following text:  
+
+**Example Code**  
+```html
+This is a free Chromium-based web browser first released in 2023 by The Browser Company.
+```  
+
+With that last addition, your browser list is complete!  
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-list-of-web-browsers/](https://student0martian.github.io/fcc-list-of-web-browsers/)  
